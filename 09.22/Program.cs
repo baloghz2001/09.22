@@ -13,6 +13,8 @@ namespace _09._22
             Console.ForegroundColor =ConsoleColor.Green;
 
             Console.WriteLine("Balogh Zoltán");
+            Console.WriteLine("még 1 sor");
+            
             Console.ReadLine();
 
         }
